@@ -89,8 +89,8 @@ ride-operations-sql-analytics/
 │   └── ride_operations_analysis.sql
 ├── docs/
 │   ├── Project_Report.pdf
-│   ├── Technical_Documentation.txt
-│   └── Insights.txt
+│   ├── Technical_Documentation.md
+│   └── Insights.md
 ```
 
 ---
